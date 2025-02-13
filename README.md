@@ -24,4 +24,6 @@ This project is licensed under the MIT License.
 ### ⭐ Show Your Support
 If you find this project helpful, give it a ⭐ on GitHub! Your support is appreciated. 😊
 
-### 👤 Contributor
+# 👤Contributors
+
+- [Vadym Makohon](https://github.com/VadymMakohon)
