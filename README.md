@@ -16,7 +16,8 @@ A simple and interactive console-based calculator built with .NET that supports 
 - Choose whether to perform another calculation
 
 ### 🖥️ Example Output
-Welcome to .NET Calculator!  
+![Example](https://github.com/user-attachments/assets/2d53fa44-6ded-4da2-a715-2da46cad39ca)
+
 
 ### 📜 License
 This project is licensed under the MIT License.
