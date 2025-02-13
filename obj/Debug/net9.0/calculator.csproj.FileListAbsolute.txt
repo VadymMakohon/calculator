@@ -1,0 +1,15 @@
+/Users/vadymmakohon/Desktop/calculator/bin/Debug/net9.0/calculator
+/Users/vadymmakohon/Desktop/calculator/bin/Debug/net9.0/calculator.deps.json
+/Users/vadymmakohon/Desktop/calculator/bin/Debug/net9.0/calculator.runtimeconfig.json
+/Users/vadymmakohon/Desktop/calculator/bin/Debug/net9.0/calculator.dll
+/Users/vadymmakohon/Desktop/calculator/bin/Debug/net9.0/calculator.pdb
+/Users/vadymmakohon/Desktop/calculator/obj/Debug/net9.0/calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadymmakohon/Desktop/calculator/obj/Debug/net9.0/calculator.AssemblyInfoInputs.cache
+/Users/vadymmakohon/Desktop/calculator/obj/Debug/net9.0/calculator.AssemblyInfo.cs
+/Users/vadymmakohon/Desktop/calculator/obj/Debug/net9.0/calculator.csproj.CoreCompileInputs.cache
+/Users/vadymmakohon/Desktop/calculator/obj/Debug/net9.0/calculator.sourcelink.json
+/Users/vadymmakohon/Desktop/calculator/obj/Debug/net9.0/calculator.dll
+/Users/vadymmakohon/Desktop/calculator/obj/Debug/net9.0/refint/calculator.dll
+/Users/vadymmakohon/Desktop/calculator/obj/Debug/net9.0/calculator.pdb
+/Users/vadymmakohon/Desktop/calculator/obj/Debug/net9.0/calculator.genruntimeconfig.cache
+/Users/vadymmakohon/Desktop/calculator/obj/Debug/net9.0/ref/calculator.dll
